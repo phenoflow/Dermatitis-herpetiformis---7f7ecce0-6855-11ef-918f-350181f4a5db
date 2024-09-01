@@ -1,0 +1,21 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/dermatitis---secondary.py
+inputModule3:
+  class: File
+  path: python/juvenile-dermatitis-herpetiformis---secondary.py
+inputModule4:
+  class: File
+  path: python/dermatitis-herpetiformis-associated---secondary.py
+inputModule5:
+  class: File
+  path: python/dermatitis-herpetiformis-senile---secondary.py
+inputModule6:
+  class: File
+  path: python/dermatitis-herpetiformis-involvement---secondary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
